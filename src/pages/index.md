@@ -1,21 +1,21 @@
 ---
 templateKey: index-page
 title: Listen and Learn
-image: /img/home-jumbotron.jpg
+image: /img/audiobook-3106985_1920.jpg
 heading: Listen and Learn
 subheading: Great way to find time to learn
 mainpitch:
-  title: Why Kaldi
+  title: Why Audicate
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tincidunt non
+    diam et accumsan. Sed eget orci est. Curabitur ac feugiat massa. Nullam eget
+    accumsan urna, ac bibendum dui. Fusce maximus nulla a hendrerit ullamcorper.
+    Fusce rhoncus id enim tincidunt tristique. Phasellus fermentum massa
+    hendrerit tortor mattis, vel malesuada mi rhoncus. Duis sodales euismod
+    bibendum.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vel nulla
+  lobortis risus pharetra egestas. Aenean aliquet turpis ac auctor.
 intro:
   blurbs:
     - image: /img/coffee.png
